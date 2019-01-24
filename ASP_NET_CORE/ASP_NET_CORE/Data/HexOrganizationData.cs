@@ -7,6 +7,7 @@ namespace ASP_NET_CORE.Data
 {
     public class HexOrganizationData
     {
+        public string testvar { get; set;}
         public IEnumerable<String> GetEmployees()
         {
             return null;
