@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 
 namespace ASP_NET_CORE.Data
 {
+ public interface TestInterface{
+   void SaveData();
+ }
     public class HexOrganizationData
     {
         private string _testVar;
