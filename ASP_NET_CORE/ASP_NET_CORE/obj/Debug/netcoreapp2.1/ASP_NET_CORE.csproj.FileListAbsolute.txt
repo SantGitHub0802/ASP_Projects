@@ -1,0 +1,14 @@
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\obj\Debug\netcoreapp2.1\ASP_NET_CORE.csproj.CoreCompileInputs.cache
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\obj\Debug\netcoreapp2.1\ASP_NET_CORE.RazorAssemblyInfo.cache
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\obj\Debug\netcoreapp2.1\ASP_NET_CORE.RazorAssemblyInfo.cs
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\obj\Debug\netcoreapp2.1\ASP_NET_CORE.AssemblyInfoInputs.cache
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\obj\Debug\netcoreapp2.1\ASP_NET_CORE.AssemblyInfo.cs
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\bin\Debug\netcoreapp2.1\ASP_NET_CORE.deps.json
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\bin\Debug\netcoreapp2.1\ASP_NET_CORE.runtimeconfig.json
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\bin\Debug\netcoreapp2.1\ASP_NET_CORE.runtimeconfig.dev.json
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\bin\Debug\netcoreapp2.1\ASP_NET_CORE.dll
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\bin\Debug\netcoreapp2.1\ASP_NET_CORE.pdb
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\obj\Debug\netcoreapp2.1\ASP_NET_CORE.RazorTargetAssemblyInfo.cache
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\obj\Debug\netcoreapp2.1\ASP_NET_CORE.dll
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\obj\Debug\netcoreapp2.1\ASP_NET_CORE.pdb
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE\obj\Debug\netcoreapp2.1\ASP_NET_CORE.csprojAssemblyReference.cache
