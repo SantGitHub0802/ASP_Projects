@@ -1,0 +1,17 @@
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.deps.json
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.runtimeconfig.json
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.runtimeconfig.dev.json
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.dll
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.pdb
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\ASP_NET_CORE.dll
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\bin\Debug\netcoreapp2.1\ASP_NET_CORE.pdb
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\obj\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.csprojAssemblyReference.cache
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\obj\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.csproj.CoreCompileInputs.cache
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\obj\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.AssemblyInfoInputs.cache
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\obj\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.AssemblyInfo.cs
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\obj\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.csproj.CopyComplete
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\obj\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.dll
+C:\Users\BH713HE\git\ASP_Projects\ASP_NET_CORE\ASP_NET_CORE_TEST\obj\Debug\netcoreapp2.1\ASP_NET_CORE_TEST.pdb
