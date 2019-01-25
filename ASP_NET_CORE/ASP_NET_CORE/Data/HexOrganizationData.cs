@@ -7,7 +7,19 @@ namespace ASP_NET_CORE.Data
 {
     public class HexOrganizationData
     {
-        public string testvar { get; set;}
+        private string _testVar;
+        
+        public string Testvar 
+        { 
+                     get 
+                     {
+                         return _testVar; 
+                     } 
+                     set
+                     { 
+                         _testVar=value; 
+                     }
+        }
         public IEnumerable<String> GetEmployees()
         {
             return null;
