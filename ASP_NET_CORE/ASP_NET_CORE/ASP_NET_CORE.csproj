@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <DocumentationFile>bin\Debug\HelloWorld.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
